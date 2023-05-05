@@ -1,0 +1,16 @@
+{
+  "name": "webres-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.1.0",
+    "screenshot-desktop": "^0.0.0-development"
+  }
+}
